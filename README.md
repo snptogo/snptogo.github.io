@@ -23,9 +23,42 @@ We publish hours, offerings and contact paths clearly so customers know what to 
 
 ---
 
-## Our promise
+## Why we exist
 
-At Snptogo, great lighting showroom shouldn't require guesswork. We publish hours, prices, and policies so your visit starts with confidence.
+Snptogo exists to make lighting showroom feel personal in Portland — clear pricing, honest recommendations, and a team that remembers why you came back.
+
+- Rooted in Portland with regulars who know our name
+- Offerings that match what we publish online
+- Support you can reach during real hours
+- A space built for repeat visits, not one-offs
+
+---
+
+## Where we're headed
+
+We're growing Snptogo into a home people recommend without hesitation — more depth in our craft, same straightforward experience at the door.
+
+---
+
+# Why Choose Snptogo?
+
+### Local roots
+
+Based in Portland with a team you can meet in person.
+
+### Craft first
+
+We invest in the work behind the counter, not filler marketing.
+
+### Built to return
+
+Consistency matters more than one flashy launch.
+
+### Local roots
+
+Based in Portland with a team you can meet in person.
+
+---
 
 # Our Offerings
 
@@ -63,34 +96,16 @@ At Snptogo, great lighting showroom shouldn't require guesswork. We publish hour
 ---
 
 
-# Featured Categories
-
-| Category | Description |
-|----------|-------------|
-| **New Arrivals** | Latest additions to our lighting showroom catalog |
-| **Best Sellers** | Customer favorites and most-requested options |
-| **Signature Experience** | Our most requested package |
-| **Lighting Showroom Essentials** | Core offering for everyday guests |
-| **Essentials** | Everyday foundations of the brand |
-| **Premium** | Elevated selections for special occasions |
-| **Support** | Guidance, sizing help and aftercare |
-| **Visit / Book** | Hours, appointments and walk-in options |
-
-
 ---
 
-- Transparent menus and service lists
-- Staff who explain options without pressure
-- Quality that holds up visit after visit
-- Follow-through when something needs fixing
+# Hours & Visit
 
----
-
-## The long view
-
-Become the lighting showroom benchmark in Portland — known for craft, accessibility, and a brand identity that feels unmistakably Snptogo.
-
----
+| | |
+|---|---|
+| **Hours** | Tue–Fri 10:00–18:00 · Sat 11:00–17:00 |
+| **City** | Portland, OR |
+| **Address** | 214 Oak Street |
+| **Website** | https://snptogo.github.io |
 
 # Customer Support
 
